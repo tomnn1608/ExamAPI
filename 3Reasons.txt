@@ -1,0 +1,11 @@
+﻿1. Technology Choice:
+Reason 1: Database Enhancement:
+
+With ordering requests and editing order information, database flexibility is important. Use a database that can scale easily to accommodate spikes in demand during shopping season (e.g. Azure SQL Database).
+Reason 2: Microservices Architecture:
+
+Applying microservices architecture helps optimize construction and maintenance costs. Independent microservices can be developed and deployed independently, reducing risk and improving scalability.
+Reason 3: Use Azure App Service:
+
+Use Azure App Service for ordering website development. It provides a flexible development environment, pre-integrated with many other Azure services, and supports rapid deployment.
+​
